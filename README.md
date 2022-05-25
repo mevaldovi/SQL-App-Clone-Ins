@@ -23,8 +23,9 @@ A step-by-step instruction for any programmer or Trilogy Education Instructor St
 - `npm i`
 - `touch .env`
 - Create the following variables in .env file:
-  -`DB_NAME`= name-of-database_db *
+
+  `DB_NAME`= name-of-database_db *
   
-  -`DB_USER`= your-mysql-username-here (most common = root)
+  `DB_USER`= your-mysql-username-here (most common = root)
   
-  -`DB_PW`= your-mysql-password-here
+  `DB_PW`= your-mysql-password-here
