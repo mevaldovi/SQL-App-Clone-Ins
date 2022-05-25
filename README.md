@@ -13,7 +13,7 @@ A step-by-step instruction for any programmer or Trilogy Education Instructor St
 - Navigate to proper directory which will hold the repo file.
 - `ls`
 - `git clone xxxxxxxxxxx` where `xxxxxxxxxxx` equals the repo's URL or its SSH key.
-- ``enter`` || ``return`` for Macs
+-  Enter || Return for Macs
 - `ls`
 - `cd xxxxxxxxxxx` where `xxxxxxxxxxx` equals the name of repo directory just created.
 - `code .`
@@ -23,6 +23,8 @@ A step-by-step instruction for any programmer or Trilogy Education Instructor St
 - `npm i`
 - `touch .env`
 - Create the following variables in .env file:
-  --`DB_NAME`= name-of-database_db *
-  --`DB_USER`= your-mysql-username-here (most common = root)
-  --`DB_PW`= your-mysql-password-here
+  -`DB_NAME`= name-of-database_db *
+  
+  -`DB_USER`= your-mysql-username-here (most common = root)
+  
+  -`DB_PW`= your-mysql-password-here
